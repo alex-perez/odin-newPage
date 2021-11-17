@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 100px;
+    height: auto;
+}
+.navBar{
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+}
+
+.titleSec{
+    background-color: #1F2937;
+    color:white;
+}
+
+button,titleSec{
+    background-color: #3882F6;
+    color:white;
+}
+.imageBar{
+    display: flex;
+}
+
+.quoteSec{
+    font-size: 36px;
+    font-weight: lighter;
+    color: 1F2937;
+    background-color: #E5E7EB;
+}
+
+.signUp{
+    background-color: #3882F6;
+    color: white;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+ul{
+    display: flex;
+    flex: auto;
+    list-style-type: none;
+
+}
